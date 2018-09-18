@@ -1,0 +1,1 @@
+Problem Statement: Can we identify where and when to spray pesticides to eradicate the mosquitos carrying West Nile Virus?
