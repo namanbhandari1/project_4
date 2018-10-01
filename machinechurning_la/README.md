@@ -137,10 +137,10 @@ Net-net, you want to overestimate the number of areas with West Nile and spray t
 
 
 
-| Model                   | Kaggle Score  | ROC-AUC Score
-|-------------------------|---------------|---------------
-| Random Forest           | --            | 0.79 
-| Random Forest w/ SVD    | --            | 0.63      
-| Logistic Regression     | --            | 0.73       
-| AdaBoost                | --            | 0.80       
-| GradientBoost           | 0.73          | 0.81  
+| Model                   | ROC-AUC Score
+|-------------------------|---------------
+| Random Forest           |    0.79 
+| Random Forest w/ SVD    |    0.63      
+| Logistic Regression     |    0.73       
+| AdaBoost                |    0.80       
+| GradientBoost           |    0.81  
